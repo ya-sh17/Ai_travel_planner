@@ -4,7 +4,7 @@ import gdown
 from llama_cpp import Llama
 
 MODEL_PATH = "model.gguf"
-FILE_ID = "1xOFkEDgqGSVvMS6lLV71xOceKublw1KF"  # Replace with your actual file ID
+FILE_ID = "your file id"  # Replace with your actual file ID
 
 
 def download_model():
